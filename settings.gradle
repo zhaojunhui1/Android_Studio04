@@ -1,0 +1,2 @@
+include ':app', ':zhaojunhui1206', ':myweekdemo2', ':zhaojunhui1207', ':weekmodeledemo1208'
+include ':library'
